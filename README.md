@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="flex: 1; text-align: left; padding-right: 20px;">
-    <h1 style="font-size: 32px; color: #fff; margin: 0;">☠️ Warlord's Den</h1>
     <p style="font-size: 16px; color: #ccc;">
       You wanna use windows?
     </p>
