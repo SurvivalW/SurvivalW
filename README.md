@@ -4,7 +4,11 @@
 
 ---
 
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+Goodie+ga;or+I+mean,+hello+stranger.&center=true&width=500&height=50)
+
+</div>
 
 <div align="center">
   
