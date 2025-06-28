@@ -6,6 +6,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+Goodie+ga;or+I+mean,+hello+stranger.&center=true&width=500&height=50)
 
-
+<div align="center">
+  
 ## STATS 🤓
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SurvivalW&show_icons=true&theme=tokyonight)
+
+</div>
