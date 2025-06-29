@@ -15,7 +15,7 @@
 ┌──────────────────────────────────────────────┐
 │           SYSTEM STATUS: OPERATIONAL         │
 ├──────────────────────────────────────────────┤
-│ Uptime:           99.99% (Never sleeps,       │
+│ Uptime:           99.99% (Never sleeps,      │
 │                   only compiles)             │
 │ Lines of Code:    Too many to count          │
 │                   (but each one majestic)    │
