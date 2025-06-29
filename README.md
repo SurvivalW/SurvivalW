@@ -19,7 +19,7 @@
 │                   only compiles)             │
 │ Lines of Code:    Too many to count          │
 │                   (but each one majestic)    │
-│ Languages Used:   Python, Java               │
+│ Languages Mastered:   Java(for right now)    │
 │ Homeserver On:    Yes                        │
 └──────────────────────────────────────────────┘
 </pre>
