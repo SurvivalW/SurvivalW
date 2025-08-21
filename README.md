@@ -10,20 +10,6 @@
 
 </div>
 
-<p align="center">
-<pre>
-                                 ┌──────────────────────────────────────────────┐
-                                 │           SYSTEM STATUS: OPERATIONAL         │
-                                 ├──────────────────────────────────────────────┤
-                                 │ Uptime:           99.99% (Never sleeps,      │
-                                 │                   only compiles)             │
-                                 │ Lines of Code:    Too many to count          │
-                                 │                   (but each one majestic)    │
-                                 │ Languages Mastered:   Java(for right now)    │
-                                 │ Homeserver On:    Yes                        │
-                                 └──────────────────────────────────────────────┘
-</pre>
-</p>
 
 
 
