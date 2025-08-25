@@ -10,6 +10,10 @@
 
 </div>
 
+## 🎓 About Me
+
+I’m currently pursuing a major in **Computer Science**.
+
 
 ## 🚧 Projects in Progress
 
