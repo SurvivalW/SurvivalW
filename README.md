@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=What's+Goodie+ga-;or+I+mean,+hello+stranger.&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Whats+up;I'm+Wyatt.&center=true&width=500&height=50)
 
 </div>
 
