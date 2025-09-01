@@ -31,5 +31,6 @@ I’m currently pursuing a major in **Computer Science**.
   
 ## STATS 🤓
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SurvivalW&show_icons=true&theme=tokyonight)
+![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/https://github.com/SurvivalW/DeepDark?style=social)
 
 </div>
