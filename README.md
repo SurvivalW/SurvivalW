@@ -20,7 +20,9 @@ I’m currently pursuing a major in **Computer Science**.
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental heat. | `Java` |
+![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/BoardedUp?style=social)
 | [⚔️ **Deep Dark**](https://github.com/SurvivalW/DeepDark) | A strategic terminal-based medieval RPG dungeon crawler where you battle Dima and his demons to save your new village. | `Java` |
+![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/DeepDark?style=social)
 
 ---
 
@@ -31,6 +33,5 @@ I’m currently pursuing a major in **Computer Science**.
   
 ## STATS 🤓
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SurvivalW&show_icons=true&theme=tokyonight)
-![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/DeepDark?style=social)
 
 </div>
