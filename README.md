@@ -32,8 +32,4 @@ I’m currently pursuing a major in **Computer Science**.
 
 
 <div align="center">
-  
-## STATS 🤓
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SurvivalW&show_icons=true&theme=tokyonight)
-
 </div>
