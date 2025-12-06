@@ -26,10 +26,4 @@ I’m currently pursuing a major in **Computer Science**.
 | [⚔️ **Deep Dark**](https://github.com/SurvivalW/DeepDark) | A strategic terminal-based medieval RPG dungeon crawler where you battle Dima and his demons to save your new village. | `Java` |
 ![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/DeepDark?style=social)
 
----
-
-
-
-
-<div align="center">
 </div>
