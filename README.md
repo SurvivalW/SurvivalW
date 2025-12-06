@@ -20,10 +20,7 @@ I’m currently pursuing a major in **Computer Science**.
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🖥️ **MoboP2P**](https://github.com/SurvivalW/MoboP2P) | The mission of this project is simple: to create the most secure messaging application for the terminal. | `Python` `CSS` |
-![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/MoboP2P?style=social)
 | [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental heat. | `Java` |
-![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/BoardedUp?style=social)
 | [⚔️ **Deep Dark**](https://github.com/SurvivalW/DeepDark) | A strategic terminal-based medieval RPG dungeon crawler where you battle Dima and his demons to save your new village. | `Java` |
-![GitHub Repo stars](https://img.shields.io/github/stars/SurvivalW/DeepDark?style=social)
 
 </div>
