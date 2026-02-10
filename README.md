@@ -20,6 +20,6 @@ I’m currently pursuing a major in **Computer Science**.
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🖥️ **MoboP2P**](https://github.com/SurvivalW/MoboP2P) | The mission of this project is simple: to create the most secure messaging application for the terminal. | `Python` `CSS` |
-| [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental heat. | `Java` |
+| [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental. | `Java` |
 
 </div>
