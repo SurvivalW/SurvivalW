@@ -20,6 +20,6 @@ I’m currently pursuing a major in **Computer Science**.
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental. | `Java` |
-| [👻 **Soul**](https://github.com/SurvivalW/Soul) | N/A | `Python` |
+| [👻 **Soul**](https://github.com/SurvivalW/Soul) | N/A | `Python`, `HTML`, `CSS` |
 
 </div>
