@@ -20,6 +20,6 @@ I’m currently pursuing a major in **Computer Science**.
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental. | `Java` |
-| [👻 **Soul**](https://github.com/SurvivalW/Soul) | N/A | `Python`, `HTML`, `CSS` |
+| [👻 **Soul**](https://github.com/SurvivalW/Soul) | A fun app to visualize your coding activity. Pass in your project's folder directory, and Soul will count the lines across your projects, ignoring comments and tracking each language. See your most-used languages and the total number of lines you've written across all projects. | `Python`, `HTML`|
 
 </div>
