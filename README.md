@@ -8,9 +8,8 @@
 
 </div>
 
-## 🎓 About Me
-
-I’m currently pursuing a major in **Computer Science**.
+# I want my actions to show who I am ⚔️⛰️
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
 
 -----
 
