@@ -8,6 +8,8 @@
 
 </div>
 
+<image-card alt="GitHub Stats" src="https://ghstats.dev/api/card?username=SurvivalW&theme=tokyonight" ></image-card>
+
 ## LeetCode ⚔️⛰️
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
 
