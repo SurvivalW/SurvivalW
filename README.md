@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Chillaaaa;Chilla.&center=true&width=500&height=50&speed=20)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=⛰️⚔️;🐐⛰️.&center=true&width=500&height=50&speed=20)
 
 </div>
 
