@@ -8,7 +8,7 @@
 
 </div>
 
-<image-card alt="GitHub Stats" src="https://ghstats.dev/api/card?username=SurvivalW&theme=tokyonight" ></image-card>
+![GitHub Stats](https://ghstats.dev/api/card?username=SurvivalW&theme=tokyonight)
 
 ## LeetCode ⚔️⛰️
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
