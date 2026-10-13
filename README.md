@@ -8,7 +8,7 @@
 
 </div>
 
-# I want my actions to show who I am ⚔️⛰️
+## LeetCode ⚔️⛰️
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
 
 -----
