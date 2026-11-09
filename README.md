@@ -8,12 +8,6 @@
 
 </div>
 
-![GitHub Stats](https://ghstats.dev/api/card?username=SurvivalW&theme=tokyonight)
-
-## LeetCode ⚔️⛰️
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
-
------
 
 ## 🚧 Projects in Progress
 
@@ -29,3 +23,15 @@
 |--------|-------------|------------|
 | [🧟‍♂️ **BoardedUp**](https://github.com/SurvivalW/BoardedUp) | Fight off endless waves of deranged chicken zombies in a house with nothing but a sword and some Yeat instrumental. | `Java` |
 | [👻 **Soul**](https://github.com/SurvivalW/Soul) | A fun app to visualize your coding activity. Pass in your project's folder directory, and Soul will count the lines across your projects, ignoring comments and tracking each language. See your most-used languages and the total number of lines you've written across all projects. | `Python`, `HTML`|
+
+
+
+
+---
+
+![GitHub Stats](https://ghstats.dev/api/card?username=SurvivalW&theme=tokyonight)
+
+## LeetCode ⚔️⛰️
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
+
+-----
