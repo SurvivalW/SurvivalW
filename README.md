@@ -14,6 +14,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 |[⚙️ **HoboEngine**](https://github.com/SurvivalW/HoboEngine)|A library for 3D C# game development| `C#` |
+|[⏳ **Clockin**](https://github.com/SurvivalW/Clockin)|A simple timer app to keep track of how much time you spend working| `Rust`, `egui` |
 
 </div>
 
