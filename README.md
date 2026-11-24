@@ -32,7 +32,3 @@
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=SurvivalW&theme=tokyonight)
 
-## LeetCode ⚔️⛰️
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Hobo_OnNothing)](https://leetcode.com/u/Hobo_OnNothing/)
-
------
